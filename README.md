@@ -14,8 +14,22 @@ However, I completed the full deployment using **free-tier cloud services** that
 
 ## 🌐 Live Demo
 
+
+
 - **Frontend (Vercel)**: [Here](https://deploy-checkpoint-frontend.vercel.app/)
 - **Backend (Render)**: [Here](https://deploy-checkpoint-backend.onrender.com/api/recipes/test)
+
+ ### ⚠️ WARNING: Backend May Sleep
+
+Render's free server goes to sleep after inactivity.  
+If the app appears unresponsive, wait 20–30 seconds and try again.
+  
+---
+
+## 🔗 Repositories
+
+- **Frontend**: [Here](https://github.com/ryadbahi/Deploy-Checkpoint-frontend)
+- **Backend (Render)**: [Here](https://github.com/ryadbahi/Deploy-Checkpoint-backend)
 
 ---
 
